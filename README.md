@@ -1,2 +1,0 @@
-# BetterMC
-- Website For BetterMC
