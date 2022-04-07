@@ -4,8 +4,7 @@
 - At The Moment It Is Only For Java Forge 1.8.9
 - Pack Version For 1.8.9 Is 1.0.0-pre4
 - Forge Auto-Installer
-# Installation
-- Windows:
+# Windows Installation
 - Download Zip From Releases
 - Uncompress Zip
 - Open Windows_Installer_1.2.0.cmd
